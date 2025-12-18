@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "428320069482",
+    "project_id": "education-app-uz-cc7f6",
+    "storage_bucket": "education-app-uz-cc7f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428320069482:android:a5f5bf1c08fa1a2e607713",
+        "android_client_info": {
+          "package_name": "com.asilbekramazonov.education_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgE0F079gOwHD_MASq9GfUNULBr5w3MFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428320069482:android:970456bd77be0878607713",
+        "android_client_info": {
+          "package_name": "com.example.education_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgE0F079gOwHD_MASq9GfUNULBr5w3MFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
